@@ -8,6 +8,7 @@ import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.Test;
 import java.util.List;
 import static org.testng.Assert.assertEquals;
+
 public class PersistenceTest {
     SessionFactory factory;
     @BeforeSuite
